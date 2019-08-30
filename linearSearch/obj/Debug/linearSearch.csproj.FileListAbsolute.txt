@@ -1,0 +1,6 @@
+c:\users\fatani\documents\visual studio 2013\Projects\linearSearch\linearSearch\bin\Debug\linearSearch.exe.config
+c:\users\fatani\documents\visual studio 2013\Projects\linearSearch\linearSearch\bin\Debug\linearSearch.exe
+c:\users\fatani\documents\visual studio 2013\Projects\linearSearch\linearSearch\bin\Debug\linearSearch.pdb
+c:\users\fatani\documents\visual studio 2013\Projects\linearSearch\linearSearch\obj\Debug\linearSearch.csprojResolveAssemblyReference.cache
+c:\users\fatani\documents\visual studio 2013\Projects\linearSearch\linearSearch\obj\Debug\linearSearch.exe
+c:\users\fatani\documents\visual studio 2013\Projects\linearSearch\linearSearch\obj\Debug\linearSearch.pdb
